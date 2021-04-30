@@ -51,10 +51,10 @@ void USARTWriteChar(uint16_t temp_value)
     {
         unsigned char output01[]="Temperature is 20 degree C \n";
         int j = 0;
-        while (output01[i]!=0)
+        while (output01[j]!=0)
         {
         while(!(UCSR0A&(1<<UDRE0)));
-        UDR0=output01[i];
+        UDR0=output01[j];
         j++;
         }
     }
@@ -63,10 +63,10 @@ void USARTWriteChar(uint16_t temp_value)
     {
         unsigned char output02[]="Temperature is 25 degree C \n";
         int j = 0;
-        while (output02[i]!=0)
+        while (output02[j]!=0)
         {
         while(!(UCSR0A&(1<<UDRE0)));
-        UDR0=output02[i];
+        UDR0=output02[j];
         j++;
         }
     }
@@ -75,10 +75,10 @@ void USARTWriteChar(uint16_t temp_value)
     {
         unsigned char output03[]="Temperature is 29 degree C \n";
         int j = 0;
-        while (output03[i]!=0)
+        while (output03[j]!=0)
         {
         while(!(UCSR0A&(1<<UDRE0)));
-        UDR0=output03[i];
+        UDR0=output03[j];
         j++;
         }
     }
@@ -88,10 +88,10 @@ void USARTWriteChar(uint16_t temp_value)
     {
         unsigned char output04[]="Temperature is 33 degree C \n";
         int j = 0;
-        while (output04[i]!=0)
+        while (output04[j]!=0)
         {
         while(!(UCSR0A&(1<<UDRE0)));
-        UDR0=output04[i];
+        UDR0=output04[j];
         j++;
         }
     }
