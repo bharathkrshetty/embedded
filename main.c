@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Achutha V Vyas
+ * @author Bharath K R
  * @brief 
  * @version 0.1
  * @date 2021-04-30
@@ -29,7 +29,7 @@ init_uart(103); //Initialize UART
 
     while(1)
     {
-        if(!(PIND&(1<<PD0)) && !(PIND&(1<<PD3))) // Start if both person is seated and haeter is on.
+        if(!(PIND&(1<<PD0)) && !(PIND&(1<<PD3))) // Start if both person is seating and haeter is on.
         {
             led_on ();
             temp = ReadADC(0);
