@@ -2,8 +2,8 @@
 
 #### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
+|Build|Cppcheck|
+|:--:|:--:|
 |[![Compile-Linux](https://github.com/bharathkrshetty/embedded/actions/workflows/Compile.yml/badge.svg)](https://github.com/bharathkrshetty/embedded/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/bharathkrshetty/embedded/actions/workflows/codeQuality.yml/badge.svg)](https://github.com/bharathkrshetty/embedded/actions/workflows/codeQuality.yml)|
 
 ### Activity 1 
