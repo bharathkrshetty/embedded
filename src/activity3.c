@@ -1,6 +1,6 @@
 /**
  * @file activity3.c
- * @author Achutha Vyas
+ * @author Bharath K R
  * @brief 
  * @version 0.1
  * @date 2021-04-30
