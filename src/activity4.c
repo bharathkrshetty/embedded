@@ -26,7 +26,7 @@ void init_uart(uint16_t ubrr_value)
     UCSR0B = (1<<RXEN0)|(1<<TXEN0)|(1<<RXCIE0)|(1<<TXCIE0);
 }
 /**
- * @brief Read values from sensor
+ * @brief Read values from the sensor
  * 
  * @return char 
  */
@@ -40,7 +40,7 @@ char USARTReadChar()
 }
 
 /**
- * @brief Give Output in degree celsius read from sensor
+ * @brief Give Output in degree celsius read from the sensor
  * 
  * @param temp_value 
  */
