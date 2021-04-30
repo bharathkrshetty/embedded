@@ -4,7 +4,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3373adfde1a14fb5a4ac66bc26aa506d)](https://www.codacy.com/gh/AchuthaVVyas/Ltts_Embedded_systems_259902/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AchuthaVVyas/Ltts_Embedded_systems_259902&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/bharathkrshetty/embedded/actions/workflows/Compile.yml/badge.svg)](https://github.com/bharathkrshetty/embedded/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml/badge.svg)](https://github.com/AchuthaVVyas/Ltts_Embedded_systems_259902/actions/workflows/codeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3373adfde1a14fb5a4ac66bc26aa506d)](https://www.codacy.com/gh/AchuthaVVyas/Ltts_Embedded_systems_259902/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AchuthaVVyas/Ltts_Embedded_systems_259902&amp;utm_campaign=Badge_Grade)|
 
 ### Activity 1 
 ![Activity1](https://user-images.githubusercontent.com/80733877/116662380-5843a380-a9b3-11eb-9436-70d5a4f1864a.png)
